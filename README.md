@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essam Hamdy AL_agamy</h1>
-<h3 align="center">Backend developer | Laravel</h3>
+<h3 align="center">Backend Developer | Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-essam&label=Profile%20views&color=0e75b6&style=flat" alt="eng-essam" /> </p>
 
