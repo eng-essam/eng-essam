@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **HTML & CSS & BOOTSTRAP & Tailwind & PHP & MySQL & OPP & LARAVEL & laravel-livewire & Ajax & Json & RESTAPI & Git & GitHub**
 
-- 📫 How to reach me **essamhamdy12345@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/160rPKZMf3UqoCkVOrI-p-dFOauGsA41g/view?usp=share_link](https://drive.google.com/file/d/160rPKZMf3UqoCkVOrI-p-dFOauGsA41g/view?usp=share_link)
+- 📫 How to reach me **essamhamdy425@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
