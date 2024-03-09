@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-essam" alt="eng-essam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/essamalagamy1" target="blank"><img src="https://img.shields.io/twitter/follow/essamalagamy1?logo=twitter&style=for-the-badge" alt="essamalagamy1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/essamalagamy1" target="blank"><img src="https://img.shields.io/twitter/follow/essamalagamy1?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+
+<p align="left"> <a href="https://linkedin.com/in/essamalagamy1" target="blank"><img src="https://img.shields.io/linkedin/follow/essamalagamy1?logo=twitter&style=for-the-badge" alt="linkedin" /></a> </p>
 
  - Expertise in a variety of technologies, including Laravel, Livewire, PHP, MySQL, Bootstrap, JQuery, 
  JavaScript, OOP, HTML, and CSS to build reliable and user-friendly systems that meet client needs.
@@ -21,7 +23,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/eng-essam?tab=repositories](https://github.com/eng-essam?tab=repositories)
 
 - 💬 Ask me about **HTML & CSS & BOOTSTRAP & Tailwind & PHP & MySQL & OPP & LARAVEL & laravel-livewire & Ajax & Json & RESTAPI & Git & GitHub**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
