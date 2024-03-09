@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-essam" alt="eng-essam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/essamalagamy1" target="blank"><img src="https://img.shields.io/twitter/follow/essamalagamy1?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
-
-<p align="left"> <a href="https://linkedin.com/in/essamalagamy1" target="blank"><img src="https://img.shields.io/linkedin/follow/essamalagamy1?logo=twitter&style=for-the-badge" alt="linkedin" /></a> </p>
-
  - Expertise in a variety of technologies, including Laravel, Livewire, PHP, MySQL, Bootstrap, JQuery, 
  JavaScript, OOP, HTML, and CSS to build reliable and user-friendly systems that meet client needs.
 - Strong problem-solving skills, with a focus on customer service and satisfaction.
